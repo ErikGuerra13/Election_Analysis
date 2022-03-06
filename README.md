@@ -10,17 +10,20 @@
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
  Out of the three counties Denver had the largest turnout with 82% of the total votes with a total of 306,055 votes. As you can see Denver had more than the majority of votes    casted versus the other two. Jefferson county had 10% turnout with Arapahoe only having 6.7%. 
+ 
 ![](Resources/County_votes.PNG)
 
 * Which county had the largest number of votes?
  Denver received the largest number of votes with a total of 306,055
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-  Among the three candidates Diana Degette had the largest number of votes with 73.8% of the total amount. Charles stocham and Raymon Doane were far behing with a much smaller percentage. Charles received 23% of the votes while Raymon only had 3%. 
+  Among the three candidates Diana Degette had the largest number of votes with 73.8% of the total amount. Charles stocham and Raymon Doane were far behing with a much smaller percentage. Charles received 23% of the votes while Raymon only had 3%.
+  
 ![](Resources/Candidate_votes.PNG)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
  Diana Degette won the election by a large percentage receiving a total of 272,892 votes and 73% of the total votes casted. 
+ 
 ![](Resources/Winner.PNG)
 
 # Election-Audit Summary
